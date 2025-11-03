@@ -3,7 +3,8 @@ Welcome to my GitHub profile!
 I’m an aspiring **Data Analyst** passionate about uncovering insights through data to help businesses make smarter decisions.  
 I love transforming raw data into clear stories using tools like **Excel, SQL, Power BI and Tableau**, and I’m continuously learning to strengthen my analytical and visualization skills.
 
----
+<hr style="height:0.5px;border:none;color:#e1e4e8;background-color:#e1e4e8;" />
+
 
 ### 💡 About Me  
 💼 Aspiring **Data Analyst**  
@@ -13,7 +14,6 @@ I love transforming raw data into clear stories using tools like **Excel, SQL, P
 🎯 Goal: To apply analytical thinking to solve real-world business problems  
 
 ---
-
 ### 🧰 Tools & Languages  
 
 ![Excel](https://img.icons8.com/color/48/microsoft-excel-2019--v1.png)  **Excel**
